@@ -1,4 +1,4 @@
-# Contracts
+# CRCK Contracts
 
 Crazy Rich Crypto Kids (CRCK) is a limited NFT collection featuring 10,000 collectibles algorithmically generated from 150+ exclusive categorical, numeric and date traits designed to symbolize generational wealth.
 
