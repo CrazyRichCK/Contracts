@@ -7,6 +7,6 @@ Crazy Rich Crypto Kids (CRCK) is a limited NFT collection featuring 10,000 colle
 - Twitter: [**@CrazyRichCK**](https://twitter.com/CrazyRichCK)
 - Discord: [**CrazyRichCK**](https://discord.gg/zGVkpP8tP9)
 
-- Contract: 0xca2dd2dc677b5c53feef49d3db2e9d9215bf6880
+- Contract: [**0xca2dd2dc677b5c53feef49d3db2e9d9215bf6880**](https://etherscan.io/token/0xca2dd2dc677b5c53feef49d3db2e9d9215bf6880)
 
 - Website: https://crazyrichcryptokids.com/
